@@ -1,7 +1,5 @@
 # Udacity Full Stack Web Developer Nanodegree
 
-
-
 ### About
 This repository contains project work for Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004) completed by July 2017
 
@@ -25,3 +23,6 @@ This repository contains project work for Udacity's [Full Stack Web Developer Na
 - JavaScript Design Patterns
 - Configuring Linux Web Servers
 - Linux Command Line Basics
+
+### Nanodegree Certificate
+![Certificate](Nanodegree_Certificate.jpg)
